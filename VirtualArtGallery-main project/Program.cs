@@ -10,6 +10,8 @@ namespace VirtualArtGallery_main_project
     {
         static void Main(string[] args)
         {
+           MainModule mainModule = new MainModule();
+           mainModule.Run(); 
         }
     }
 }
