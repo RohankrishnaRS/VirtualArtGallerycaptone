@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F501AB5-CF60-4BFF-A6BF-00C6DBC32B1C}|VirtualArtGallery.Tests\\VirtualArtGallery.Tests.csproj|c:\\users\\ravis\\onedrive\\desktop\\c# training\\virtualartgallery-main project\\virtualartgallery.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F501AB5-CF60-4BFF-A6BF-00C6DBC32B1C}|VirtualArtGallery.Tests\\VirtualArtGallery.Tests.csproj|solutionrelative:virtualartgallery.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F501AB5-CF60-4BFF-A6BF-00C6DBC32B1C}|VirtualArtGallery.Tests\\VirtualArtGallery.Tests.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\virtualartgallery.tests\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F501AB5-CF60-4BFF-A6BF-00C6DBC32B1C}|VirtualArtGallery.Tests\\VirtualArtGallery.Tests.csproj|solutionrelative:virtualartgallery.tests\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ravis\\Videos\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\VirtualArtGalleryImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VirtualArtGallery.Tests||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VirtualArtGallery-main project||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\main\\MainModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\main\\MainModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\Util\\DBConnUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\Util\\DBConnUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\Artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\entity\\Artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\Util\\DBPropertyUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\Util\\DBPropertyUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\GalleryServiceImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\dao\\GalleryServiceImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\Gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\entity\\Gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\VirtualArtGalleryImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\dao\\VirtualArtGalleryImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\myexceptions\\UserNotException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\myexceptions\\UserNotException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\myexceptions\\ArtworkNotFoundException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\myexceptions\\ArtworkNotFoundException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\entity\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\IvirtualArtGallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\dao\\IvirtualArtGallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\IGalleryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\dao\\IGalleryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\Artwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897033A8-D168-4ADF-8BFF-F899B3D068FA}|VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj|solutionrelative:VirtualArtGallery-main project\\entity\\Artwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "VirtualArtGallery.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAowOIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:09:10.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainModule.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\main\\MainModule.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\main\\MainModule.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\main\\MainModule.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\main\\MainModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:21:51.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBConnUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\Util\\DBConnUtil.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\Util\\DBConnUtil.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\Util\\DBConnUtil.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\Util\\DBConnUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:17:18.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\Artist.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\entity\\Artist.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\Artist.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\entity\\Artist.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:58:27.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\App.config",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\App.config",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\App.config",
+              "RelativeToolTip": "VirtualArtGallery-main project\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-27T01:17:39.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery.Tests\\App.config",
+              "RelativeDocumentMoniker": "VirtualArtGallery.Tests\\App.config",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery.Tests\\App.config",
+              "RelativeToolTip": "VirtualArtGallery.Tests\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-29T06:33:27.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\Program.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\Program.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\Program.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:44:42.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBPropertyUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\Util\\DBPropertyUtil.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\Util\\DBPropertyUtil.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\Util\\DBPropertyUtil.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\Util\\DBPropertyUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:16:16.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GalleryServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\GalleryServiceImpl.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\dao\\GalleryServiceImpl.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\GalleryServiceImpl.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\dao\\GalleryServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:05:14.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\Gallery.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\entity\\Gallery.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\Gallery.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\entity\\Gallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:58:53.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VirtualArtGalleryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\VirtualArtGalleryImpl.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\dao\\VirtualArtGalleryImpl.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\VirtualArtGalleryImpl.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\dao\\VirtualArtGalleryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:04:54.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserNotException.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\myexceptions\\UserNotException.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\myexceptions\\UserNotException.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\myexceptions\\UserNotException.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\myexceptions\\UserNotException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:19:47.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArtworkNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\myexceptions\\ArtworkNotFoundException.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\myexceptions\\ArtworkNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\myexceptions\\ArtworkNotFoundException.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\myexceptions\\ArtworkNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:19:25.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\User.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\entity\\User.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\User.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:59:04.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IvirtualArtGallery.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\IvirtualArtGallery.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\dao\\IvirtualArtGallery.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\IvirtualArtGallery.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\dao\\IvirtualArtGallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:03:54.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGalleryService.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\IGalleryService.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\dao\\IGalleryService.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\IGalleryService.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\dao\\IGalleryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:04:24.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VirtualArtGalleryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\Videos\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\VirtualArtGalleryImpl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Videos\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\VirtualArtGalleryImpl.cs",
+              "ToolTip": "C:\\Users\\ravis\\Videos\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\VirtualArtGalleryImpl.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Videos\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\dao\\VirtualArtGalleryImpl.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAqwNMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:10:59.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VirtualArtGallery.Tests",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery.Tests\\VirtualArtGallery.Tests.csproj",
+              "RelativeDocumentMoniker": "VirtualArtGallery.Tests\\VirtualArtGallery.Tests.csproj",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery.Tests\\VirtualArtGallery.Tests.csproj",
+              "RelativeToolTip": "VirtualArtGallery.Tests\\VirtualArtGallery.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-29T05:29:20.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VirtualArtGallery-main project",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj",
+              "RelativeToolTip": "VirtualArtGallery-main project\\VirtualArtGallery-main project.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-29T05:29:31.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Artwork.cs",
+              "DocumentMoniker": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\Artwork.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery-main project\\entity\\Artwork.cs",
+              "ToolTip": "C:\\Users\\ravis\\OneDrive\\Desktop\\C# training\\VirtualArtGallery-main project\\VirtualArtGallery-main project\\entity\\Artwork.cs",
+              "RelativeToolTip": "VirtualArtGallery-main project\\entity\\Artwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:58:41.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

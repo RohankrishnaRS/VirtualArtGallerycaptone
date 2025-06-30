@@ -1,0 +1,8 @@
+C:\Users\ravis\OneDrive\Desktop\C# training\VirtualArtGallery-main project\VirtualArtGallery-main project\bin\Debug\VirtualArtGallery-main project.exe.config
+C:\Users\ravis\OneDrive\Desktop\C# training\VirtualArtGallery-main project\VirtualArtGallery-main project\bin\Debug\VirtualArtGallery-main project.exe
+C:\Users\ravis\OneDrive\Desktop\C# training\VirtualArtGallery-main project\VirtualArtGallery-main project\bin\Debug\VirtualArtGallery-main project.pdb
+C:\Users\ravis\OneDrive\Desktop\C# training\VirtualArtGallery-main project\VirtualArtGallery-main project\obj\Debug\VirtualArtGallery-main project.csproj.AssemblyReference.cache
+C:\Users\ravis\OneDrive\Desktop\C# training\VirtualArtGallery-main project\VirtualArtGallery-main project\obj\Debug\VirtualArtGallery-main project.csproj.CoreCompileInputs.cache
+C:\Users\ravis\OneDrive\Desktop\C# training\VirtualArtGallery-main project\VirtualArtGallery-main project\obj\Debug\VirtualArtGallery-main project.exe
+C:\Users\ravis\OneDrive\Desktop\C# training\VirtualArtGallery-main project\VirtualArtGallery-main project\obj\Debug\VirtualArtGallery-main project.pdb
+C:\Users\ravis\OneDrive\Desktop\C# training\VirtualArtGallery-main project\VirtualArtGallery-main project\obj\Debug\VirtualArtGallery-main project.exe.config
